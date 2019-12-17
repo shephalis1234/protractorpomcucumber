@@ -22,7 +22,7 @@ describe(" Login Scenario->", () => {
    browser.sleep(3000);
   const loginPageHeader: string = await  loginPage.getTitle();
   expect("Scorpio-Fleet Management").toEqual(loginPageHeader);
-  await  browser.sleep(3000);
+  browser.sleep(3000);
 });
 });
 
