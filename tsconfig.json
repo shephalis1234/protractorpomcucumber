@@ -1,0 +1,20 @@
+
+{
+  "compilerOptions": {
+                      
+    "target": "es5",                         
+    "module": "commonjs",                   
+    "strict": true,                          
+    
+     
+    "esModuleInterop": true,                 
+   
+    "forceConsistentCasingInFileNames": true,  
+    "outDir":"outputjs",
+    "types":["jasmine","node"],
+    
+  },
+  "exclude":[
+    "node_modules/*"
+  ]
+}
