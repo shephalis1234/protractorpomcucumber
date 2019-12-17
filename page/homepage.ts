@@ -15,6 +15,7 @@ export class homepage extends Utilities {
     await this.click(this.light);
     await this.selectoption(this.locatoroption,option);
     console.log("cucumber");
+    console.log("cucumber");
   }
   
 }
