@@ -9,7 +9,7 @@ describe("LandSend Login Scenario->", () => {
     beforeAll(async () => {
 console.log("");
 console.log("");
-console.log("");
+
         loginPage =new login_page();
     homePage =new homepage();
        
