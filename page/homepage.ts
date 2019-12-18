@@ -16,6 +16,8 @@ export class homepage extends Utilities {
     await this.selectoption(this.locatoroption,option);
    
     console.log("");
+    console.log("");
+    console.log("");
   }
   
 }
