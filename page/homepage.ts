@@ -18,10 +18,7 @@ export class homepage extends Utilities {
     console.log("");
     console.log("");
     console.log("");
-    console.log("");
-    console.log("");
-    console.log("");
-    console.log("");
+    console.log("cucumber");
   }
   
 }
