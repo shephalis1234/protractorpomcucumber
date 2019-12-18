@@ -14,7 +14,7 @@ export class homepage extends Utilities {
     // await this.type(this.pass, pass);
     await this.click(this.light);
     await this.selectoption(this.locatoroption,option);
-    console.log("cucumber");
+    console.log("cucumber1");
     console.log("");
     console.log("");
     console.log("");
@@ -23,7 +23,7 @@ export class homepage extends Utilities {
     console.log("");
     console.log("");
     
-    console.log("cucumber");
+    console.log("cucumber1");
   }
   
 }
