@@ -7,8 +7,9 @@ let loginPage: login_page ;
 let homePage:  homepage;
 describe("LandSend Login Scenario->", () => {
     beforeAll(async () => {
-
-    
+console.log("");
+console.log("");
+console.log("");
         loginPage =new login_page();
     homePage =new homepage();
        
