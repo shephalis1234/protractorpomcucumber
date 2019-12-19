@@ -22,6 +22,7 @@ export class homepage extends Utilities {
     console.log("cucumber4");
     console.log("cucumber5");
     console.log("cucumber6");
+    console.log("cucumber7");
   }
   
 }
