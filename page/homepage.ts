@@ -15,15 +15,13 @@ export class homepage extends Utilities {
     await this.click(this.light);
     await this.selectoption(this.locatoroption,option);
     
-    console.log("cucumber1");
+    console.log("cucumber11");
    
-    console.log("cucumber3");
-   
-    console.log("cucumber5");
+    console.log("cucumber31");
+   console.log("cucumber51");
   
-    console.log("cucumber7");
-   
-    console.log("cucumber9");
+  console.log("cucumber71");
+   console.log("cucumber91");
   }
   
 }
