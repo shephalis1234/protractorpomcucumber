@@ -17,10 +17,9 @@ export class homepage extends Utilities {
     
     console.log("cucumber1");
     console.log("cucumber2");
-    console.log("cucumber2");
     console.log("cucumber3");
     console.log("cucumber4");
-
+    console.log("cucumber5");
   }
   
 }
