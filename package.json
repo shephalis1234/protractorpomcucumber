@@ -28,7 +28,7 @@
     "jasmine-data-provider": "^2.2.0",
     "jasmine-reporters": "2.3.2",
     "mkdirp": "^0.5.1",
-    "properties-reader": "^0.0.15",
+    "properties-reader": "^2.2.0",
     "protractor": "^5.4.2",
     "protractor-cucumber-framework": "^6.1.1",
     "protractor-image-comparison": "^3.9.0",
